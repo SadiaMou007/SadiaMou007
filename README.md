@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sadia</h1>
-<h3 align="center">MERN Stack Aspirants</h3>
 
 <h3 align="left"> 🌱 </h3>
 
@@ -16,7 +15,6 @@
 ------------------------------------------------------------------
 - 📫 How to reach me **sadia.bu.cse@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a target="_blank" href="mailto:sadia.bu.cse@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
