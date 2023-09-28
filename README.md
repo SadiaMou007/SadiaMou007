@@ -15,12 +15,3 @@
 ------------------------------------------------------------------
 - 📫 How to reach me **sadia.bu.cse@gmail.com**
 
-<p align="left">
-  <a target="_blank" href="mailto:sadia.bu.cse@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://linkedin.com/in/sadia-islam007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sadia-Islam" height="30" width="40" /></a>
-  
-</p>
-
-
